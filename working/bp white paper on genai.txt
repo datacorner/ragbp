@@ -1,0 +1,195 @@
+Think Bigger:
+Supercharging Intelligent Automation
+with a Gen AI-Powered Approach
+
+
+blueprism.com
+---
+# Adoption of Intelligent Automation in the Public Sector
+
+From Alarm to Excitement: The Rise of Generative AI
+
+With the introduction of any innovation, fear and uncertainty inevitably follow. Just look at some of the most impactful innovations from the last 30 years; while the internet revolutionized communication, information sharing and commerce, it wasn’t without its detractors. Cloud computing, too, whose introduction democratized access to powerful computing resources on a global scale for individuals and organizations of all sizes, dramatically reduced IT costs and facilitated real-time collaboration and remote work. Yet still, critics voiced concerns over cloud computing’s potential negative impact on reliability and downtime, and security and data privacy, among others.
+
+But there’s excitement, too. A lot of it, and for good reason. Generative AI, according to McKinsey, is expected to accelerate workforce transformation exponentially, increasing labor productivity by augmenting worker capabilities across all industry sectors while adding trillions of dollars in value to the global economy.
+
+ChatGPT reached 100 million users in just two months after launch, making it the fastest-growing app of all time. By comparison, it took TikTok nine months and Instagram two-and-a-half years to attain the same number of users.
+
+It’s a similar story for adoption rates among diverse and far-ranging industries, with Marketing and Advertising leading the way at 37%, followed by Tech at 35%. Consulting firms aren’t far behind, with Education, Accounting and Healthcare on their heels. Generative AI’s user-friendly interfaces enable interactive communication. It creates novel content in text, imagery, etc., amplifying the excitement for its potential.
+
+AI is helping organizations think bigger about intelligent automation (IA), which has embraced and leveraged its capabilities to revolutionize how businesses operate, unlocking greater levels of productivity and accuracy while delivering superior user experiences.
+
+And of course, there’s artificial intelligence (AI), which has been around for a while. And it’s everywhere: from online personalized recommendations by streaming services like Spotify and Netflix; to navigational apps like Waze and Google Maps; to smart home devices; and, online personal customer support. Since the introduction of ChatGPT in the fall of 2022, however, worst-case scenarios and doomsday visions about potential job displacement, misuse, privacy, security and bias have dominated the public conversation.
+
+In this e-book, we’ll explore what generative AI is, its complementary and beneficial relationship to intelligent automation, its potential impact on the intelligent automation lifecycle, potential business use cases, risks and limitations, as well as top tips to consider when getting started with a gen AI-first approach.
+
+&nbsp;
+---
+# AI, Generative AI & Intelligent Automation: An Introduction
+
+Let’s start with defining AI, generative AI and intelligent automation. To do that, we asked ChatGPT for a little help to get started and took it from there.
+
+# Artificial intelligence
+
+AI encompasses a broad range of applications and technologies designed to perform tasks typically requiring human intelligence. AI learns and adapts through data analysis and pattern recognition, enabling it to mimic human behavior in performing specific tasks using pre-defined rules and algorithms. Examples of common AI include machine learning (ML), natural language processing (NLP) and computer vision.
+
+# Generative AI
+
+Generative AI, or gen AI, represents a breakthrough in AI because of its ability to create and produce new or novel content rather than analyzing, classifying and regurgitating existing data. It works in various forms including text, code, imagery, processes and sound, which can be used to improve productivity in various areas ranging from customer service and marketing to music and the visual arts.
+
+One of the more popular types of generative AI is Large Language Models (LLMs). LLMs understand and generate natural language and are used in various applications, such as chatbots, virtual assistants, content generation and language translation. Given their ability to generate coherent, informative content with context, LLMs can serve as powerful automation support tools. ChatGPT is an LLM, for example.
+
+The positive impact (of LLMs) on human creativity and productivity will be massive because language tasks account for 62% of the total time employees work, and 65% of that time can be transformed into more productive activity through augmentation and automation.
+
+— Accenture
+
+# Intelligent automation
+
+The term ’intelligent automation,’ on the other hand, was born out of the combination of technologies like artificial intelligence (AI), machine learning (ML) and natural language processing (NLP) with other, more established technologies like robotic process automation (RPA) and business process management (BPM). Together, they completely transform how work can be done through automation and digitalization.
+
+By leveraging IA, organizations across all industries can automate complex workflows, improve data processing and analysis, streamline decision-making, reduce errors and digitally transform their operations. IA systems can perform tasks ranging from data entry and document processing to customer service and predictive analytics.
+
+# Examples of Intelligent Automation products leveraging AI include:
+
+SS&C | Blue Prism® Document Automation and SS&C | Blue Prism® Decipher IDP, intelligent document processing (IDP) solutions pat help organizations extract data from documents faster and more accurately pan humans.
+SS&C | Blue Prism® Decision, which automates use cases involving human-like decision processes and enables organizations to query and analyze large amounts of data.
+SS&C | Blue Prism® Process Intelligence and SS&C Everywhere, which provide recommendations from pat data.
+---
+# Generative AI: Unlocking New Frontiers in Problem-Solving
+
+Generative AI, with its capacity to generate fresh and inventive content, seamlessly merges with intelligent automation, empowering organizations to automate more complex and sophisticated tasks and processes with unparalleled efficiency, propelling productivity to unprecedented heights.
+
+The convergence of these two groundbreaking technologies has the potential to revolutionize our world and forge a path toward previously unimagined automated solutions:
+
+- Limitless creativity: Generative AI’s creativity and adaptability enable it to generate new ideas, designs, or solutions that go beyond pre-programmed rules and routines, which can help IA systems address complex or evolving problems that may not have clear-cut solutions or require flexibility.
+- Better data insights: By learning patterns from large datasets, generative AI can identify deviations from normal behavior or expected patterns, enabling IA to flag potential issues, errors, or fraudulent activities, enhancing the accuracy and reliability of automated processes.
+- Improved decision-making: Generative AI can generate simulated scenarios or ‘what-if’ analyses, providing IA systems with a broader perspective for decision-making. By exploring these various ‘what-if’ scenarios and outcomes, generative AI can enhance intelligent automation’s ability to identify and predict potential risks and select the most effective course of action.
+- Continuous process improvement: By analyzing real-time data, generative AI can produce insights and suggest adjustments or refinements to existing processes. Integration with intelligent automation solutions like RPA and BPM, for example, enables those refinements to be quickly analyzed, developed, and deployed. Intelligent automation can then monitor the updated processes for any deviations, generating alerts and appropriate responses, including resource allocation.
+- Immersive customer service: Generative AI’s remarkable comprehension and production of natural language transforms human-machine interactions. With automated translation, content generation, and precise intent comprehension, organizations can engage in genuine conversations with customers, elevating IA-powered chatbots and virtual assistants above the handling of routine customer inquiries, providing quick, rote responses and resolving simple issues to delivering immersive and seamless experiences that expand the boundaries of automated communication.
+
+Generative AI can help in incremental digitization and basic productivity use cases. But its grander potential is in the higher order opportunities such as new services or business models that were previously uneconomical.
+
+— Deloitte
+---
+# Exploring Use Cases with Generative AI and Intelligent Automation
+
+Combining generative AI and intelligent automation offers several benefits, including improved productivity, enhanced customer service, scalability, and cost savings. Moreover, organizations that effectively utilize these technologies gain a significant competitive advantage in today’s rapidly evolving digital landscape, ensuring long-term success.
+
+# Potential use cases
+
+|Creating automations|Delivering insights|
+|---|---|
+|Generative AI analyzes process data to detect patterns and inefficiencies, offering suggestions for improvements. It proposes alternative designs, workflows, and innovative approaches while also creating automations based on natural language prompts.|AI analyzes large datasets to extract valuable insights and enables data-driven decision-making by training on historical data and business rules. Leveraging intelligent automation, businesses can then connect to LLMs like OpenAI or AWS to go even further, generating new content based on learned patterns, providing innovative solutions, creative outputs, and potentially uncovering previously undiscovered insights.|
+
+|Building intelligent UIs|Optimizing processes|
+|---|---|
+|Building user interfaces (UI) can be time-consuming, especially when dealing with intricate or nuanced requirements. Training generative AI on existing UI designs and user feedback enables it to generate suggestions and recommendations for novel UI layouts, components, and interactions, significantly reducing UI designer time. Where organizations may have previously disregarded steps or even entire processes because they couldn’t automate or weren’t worth automating due to complexity, SS&C Blue Prism uses generative AI to evaluate simulations before deployment, enabling customers to achieve end-to-end automation at scale.|Gen AI utilizes ML algorithms to continuously learn from outcomes. It suggests optimized versions of existing automated processes and constructs them with greater speed and ease compared to current methods. With intelligent automation, businesses can quickly and efficiently analyze, integrate, and deploy these updated processes where required.|
+
+# Co-piloting
+
+Co-pilot automation helps human workers complete tasks, providing real-time insights and automating routine or repetitive processes. With co-pilot automation, employees can focus on more strategic or creative work, while the AI handles mundane tasks, leading to increased job satisfaction and engagement. Generative AI can augment performance by providing continuous support in the form of step-by-step instructions, highlighting potential pitfalls and contextual recommendations, and suggesting the best actions based on each individual’s tasks.
+
+These use cases demonstrate how generative AI can enhance intelligent automation, enabling improved data-driven decision-making, rapid automation development, and effortless process execution. As technology evolves and new applications emerge across industries, the potential for Generative AI and IA to create solutions is boundless.
+
+By 2026, over 100 million humans will engage robocolleagues to contribute to their work. — Gartner
+---
+# IA and Gen AI in Action: Transforming Insurance Claims Processing
+
+Let’s explore how generative AI, intelligent automation and machine learning can revolutionize the auto insurance claim process. We’ll break down the different components and their potential benefits:
+
+# Data extraction and processing
+
+Intelligent document processing (IDP) extracts relevant information from the police report, such as incident details, the parties involved and any witness statements, significantly reducing manual effort and streamlining the initial steps of the claim. Generative AI can then provide context to the data, and enrich it by generating potential weather conditions at the time of the incident or road traffic conditions at the location.
+
+# Initial evaluation reporting
+
+With the data extracted, IA generates an initial evaluation report, compiling the necessary data for further assessment. This report can include key details, photos or other evidence related to the claim. By automating this step, insurers can expedite the process and provide a preliminary assessment to the customer.
+
+# Claim assessment
+
+AI/ML algorithms improve accuracy, consistency and speed in the claims assessment process by analyzing historical data, patterns and various risk factors to objectively evaluate the claim and determine if it’s accepted or rejected.
+
+# Personalized communication
+
+Based on the claim assessment, generative AI dynamically produces customer-specific messages highlighting the next steps, applicable exclusions based on their policy and explanations regarding repairs — enhancing personalization to improve the customer experience while reducing the burden on human agents.
+
+# Multimedia integration
+
+Generative AI then facilitates the integration of multimedia elements, such as videos or images, to visually explain repair requirements or provide additional information to the customer, improving communications and helping customers better understand the claim process.
+
+With the combined power of generative AI and intelligent automation, insurers can revolutionize not only the car insurance claims process, but claims handling altogether, achieving greater operational efficiency, faster turnaround times and improved accuracy. Ultimately, this synergy sets the stage for a future where insurance claims are processed with unparalleled speed and precision, keeping the customer at the forefront.
+---
+# Automating the Automation Lifecycle with Generative AI
+
+In today’s business landscape, organizations are eager to think bigger about the challenge of automation development. By incorporating generative AI throughout the intelligent automation lifecycle — a gen AI-powered approach — organizations can effectively "automate automation development." This enables the deployment of intelligent and digitized processes across the enterprise faster and more cost-effectively with fewer resources.
+
+How generative AI contributes to each stage of the automation development lifecycle:
+
+STAGE 1. Discover and plan
+In pis stage of pe lifecycle, workflows are analyzed, and tasks and processes are documented and assessed for complexity and volume. Suitable automation candidates are identified based on pis evaluation. AI can assist in identifying opportunities for automation by analyzing large volumes of data and identifying patterns, anomalies and potential areas for optimization. It generates insights, forecasts and recommendations based on historical data, enabling businesses to make more informed decisions about automation initiatives.
+
+STAGE 2. Design and develop
+Once specific processes and tasks are identified for automation, gen AI can accelerate pe development process by automatically designing or proposing potential workflows, process models and more. It’s easier and faster to review and edit code pan to create it. This is where gen AI can provide support to its human counterparts — pe designers and developers — allowing pem to use natural language to generate code, design user interfaces, create APIs and so on. Similarly, it can act as a virtual co-worker, providing ongoing support, suggestions and ideas proughout pe design and development process.
+
+STAGE 3. Test and assure quality
+Prior to deployment, all automations must undergo extensive testing to ensure pey perform as intended. That includes functional, performance and user acceptance testing (UAT). Quality assurance processes help identify and resolve any issues, refine pe automation and validate its effectiveness. Employing generative AI at pis stage can be game-changing. Here, data collection is critical, as extensive amounts of it are required for training automations. AI can reduce pe need for manual data collection by creating synpetic training data for ML models to simulate realistic automation workflows, test cases and exception scenarios, ensuring higher levels of reliability and accuracy.
+
+STAGE 4. Deploy and integrate
+In pis stage, automation solutions are deployed and integrated into pe production environment, including existing systems, databases and applications to ensure seamless communication and data flow. Generative AI can help ensure seamless integration by assisting in troubleshooting and debugging issues pat may arise during deployment, reducing implementation time and even making automated systems more user-friendly prough enhanced natural language interfaces and chatbot capabilities.
+
+STAGE 5. Monitor, maintain and optimize
+Once in production, automation solutions should be continuously monitored. Generative AI can play a crucial role in pis stage by analyzing real-time data from automated processes (also known as process intelligence). It provides recommendations for furper optimization, including suggestions for alternative approaches, and produces and builds new automation models pat can also improve efficiency.
+---
+# Charting New Territory: Risks and Limitations for Generative AI in Intelligent Automation
+
+While generative AI holds immense potential to revolutionize intelligent automation, it’s crucial to acknowledge and address the associated risks and limitations. These include concerns related to ethics, privacy and security, fairness, workforce impact, explainability, reliability, and legal and regulatory compliance.
+
+|Ethics:|To responsibly deploy generative AI, organizations must adopt ethical rules of behavior — transparency, informed consent, privacy protection, bias mitigation, responsible content generation, regular audits and collaboration with stakeholders. Adhering to ethical rules promotes trust, fairness and individual and societal well-being. Ethical practices build a strong brand, while unethical use of generative AI can harm reputation and erode customer trust.|
+|---|---|
+|Privacy and security:|Generative AI and intelligent automation rely on copious amounts of data, raising concerns about data privacy and security. Organizations must comply with data protection regulations, implement robust data security measures and conduct regular audits to mitigate the risk of unauthorized access and misuse. As generative AI models become more sophisticated, the inadvertent reproduction of sensitive information must be addressed.|
+|Fairness:|Generative AI learns from large datasets, which may introduce bias — gender, racial or cultural, for example — into content and recommendations. To mitigate this, organizations need to ensure design, development and deployment are fair and inclusive.|
+|Workforce Impact:|Change can be difficult for people, especially when it comes to their jobs. When introducing gen AI to intelligent automation systems, it’s important to prepare human workers for the impact. Mitigating these risks includes investing in reskilling programs, training and education to equip employees with the skills to work in conjunction with generative AI and intelligent automation, and preparing employees for new, yet-undefined roles resulting from a generative AI-first approach such as Prompt Writer, AI Ethicist and AI Content Curator.|
+|Explainability:|According to Deloitte, one of the key challenges for generative AI is it doesn’t have a clear information source like Siri or Alexa. This lack of a sole source of truth calls into question the validity of the content and, as a result, can undermine the organization’s credibility. System transparency, accountability and the ability to provide reasonable explanations for outputs and recommendations are critical, particularly in complex, highly regulated consumer industries like financial services and banking.|
+|Reliability:|While generative AI generates exciting possibilities, it can also produce invalid or untrue responses not grounded in training data. Organizations can address this by incorporating human-in-the-loop (HITL) validation and consistently applying additional training data.|
+|Legal and regulatory compliance:|Adhering to data protection, intellectual property, consumer protection and employment laws is crucial when adopting a gen AI-first approach to intelligent automation. Strong controls and alignment with regulations, supported by robust business process management platforms, can help mitigate compliance issues.|
+
+Trust is not an inherent quality of AI, but instead the product of AI governance, risk mitigation and the intentional alignment of people, processes and technologies across the enterprise.
+
+— Deloitte
+---
+# A Framework for a Gen AI-Powered Approach in Intelligent Automation: Top Tips
+
+When including generative AI in intelligent automation, here are some top tips to consider:
+
+|1. Establish guidelines|Set clear ethical boundaries for AI usage, assessing its impact on individuals, society and privacy. Prioritize privacy, security and compliance with data protection regulations, including accountability, oversight and mechanisms for human review and intervention when needed.|
+|---|---|
+|2. Foster alignment|To successfully integrate generative AI into IA, organizations must align their AI strategy by understanding desired outcomes, assessing and prioritizing generative AI’s role, and managing it effectively. This requires collaboration across teams and stakeholders, ensuring alignment with overall objectives. By aligning technical capabilities with business goals, organizations can optimize the use of generative AI and IA, unlocking their full potential for driving efficiency, innovation and business transformation.|
+|3. Identify use cases|Determine the specific tasks or processes within your intelligent automation workflow that can benefit from the integration of generative AI, specifically focusing on the areas where creative content generation, decision-making or adaptive capabilities can add value and enhance automation.|
+|4. Use quality training data|Curate a high-quality and diverse training dataset for generative AI, ensuring it represents desired outputs and is bias-free. Generative AI data requirements are substantial, leading many users to rely on pre-existing gen AI interfaces or Large Language Models (LLMs) instead of building and training their own. In that case, establishing guidelines like those mentioned previously are critical.|
+|5. Validate content|There are limitations to content creation with generative AI. Thoroughly validate your output to avoid hallucinations — high-confidence responses not based on the training data — and bias. Develop metrics tied to your specific use cases to ensure content quality and relevance. You’ll also need a feedback loop for continuous content improvement.|
+|6. Enable the workforce|Success with generative AI adoption and usage depends on workforce enablement. To achieve this, organizations can implement comprehensive education and training programs, establish a strong change management practice and foster an environment where development, mentorship and knowledge sharing are rewarded. All these practices, of course, require strong metrics to ensure accountability and measure success.|
+|7. Maintain human oversight|Along those same lines, an AI-first approach doesn’t mean you won’t keep humans in the loop. Generative AI will help with all sorts of content production, but you’ll need people to provide oversight and apply good judgment based on your business objectives, brand, compliance requirements and code of conduct.|
+|8. Adapt|Change is inevitable, driven by regulations, market forces, customer feedback and evolving technology. Regular feedback and data from employees and customers are essential to adapt to changing requirements and enhance the output quality of generative AI models. Organizations should establish formal feedback mechanisms across operations, ensuring accessible communication channels, anonymity and confidentiality. Feedback collection, evaluation teams and acknowledging employee input and their contribution to improvement are vital for the success of these programs.|
+|9. Consider scalability, performance and environmental impact|Generative AI adoption has positive impacts like optimizing resource utilization, improving performance and reducing waste, but it also requires significant computational resources, leading to increased energy consumption and emissions. To mitigate these effects, prioritize energy-efficient hardware, leverage cloud computing, use renewable energy sources, optimize AI algorithms and practice responsible components recycling and disposal.|
+
+By following these tips, organizations can effectively incorporate generative AI into intelligent automation workflows, unlocking its full potential for efficiency, creativity and value.
+---
+Automating Automation Development: SS&C Blue Prism’s Gen AI-Powered Solutions
+
+With the rapid advancement of AI and its potential to transform industries, it’s important to partner with a reliable and innovative solution provider.
+
+SS&C Blue Prism’s AI-first approach covers the entire intelligent automation lifecycle, from discovery and planning to optimization and continuous improvement. By integrating generative AI at each stage, businesses can automate automation itself, realizing exponential savings in time, money and resources while unlocking unprecedented levels of productivity, creativity and problem-solving, and accelerating your transformation journey.
+
+Choose SS&C Blue Prism for all your generative AI needs and think bigger about your automation journey. Click below and please indicate your industry or area of interest so we can best assist you.
+
+Contact Us
+
+Email us at bpm-contact@sscinc.com to learn how SS&C Blue Prism can help your organization realize transformational business value with intelligent automation.
+
+SS&C Blue Prism allows organizations to deliver transformational business value via our intelligent automation platform. We make products with one aim in mind — to improve experiences for people. By connecting people and digital workers, you can use the right resource, every time, for the best customer and business outcomes. We supply enterprise-wide software that not only provides full control and governance but also allows businesses to react fast to continuous change.
+
+Exceed customer expectations, stay competitive, accelerate growth.
+
+To learn more, visit www.blueprism.com and follow us on Twitter @blue_prism and LinkedIn.
+
+© 2023 Blue Prism Limited. “Blue Prism,” the “Blue Prism” logo and Prism device are either trademarks or registered trademarks of Blue Prism Limited and its affiliates. All Rights Reserved. pw-0245

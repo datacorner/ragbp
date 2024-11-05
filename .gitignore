@@ -1,0 +1,14 @@
+._v*/*
+__pycache__/*
+*.pyc
+__pycache__/*.pyc
+*.log
+vstore/*.data
+vstore/*.index
+working/*.log.*
+working/cfg/*
+working/chroma.sqlite3
+*/ragfmk.egg-info/*
+.vscode/settings.json
+*.pyc.*
+working/cfg.zip
